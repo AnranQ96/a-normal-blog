@@ -19,7 +19,7 @@ locale                   : "zh-CN"
 title                    : "一个兴趣使然的blog"
 title_separator          : "|"
 name                     : "LeafWolf"
-description              : "一个只会无能狂怒的阿宅。"
+description              : " "
 url                      : "https://anranq96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/a-normal-blog" # the subpath of your site, e.g. "/blog"
 repository               : "AnranQ96/a-normal-blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "LeafWolf"
+  avatar           : "/assets/images/bio-photo.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "一个只会无能狂怒的阿宅。"
   location         : "Somewhere"
   email            :
   links:
@@ -136,13 +136,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/LeafWolf2333"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/AnranQ96"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
