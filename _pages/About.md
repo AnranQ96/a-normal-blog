@@ -1,1 +1,9 @@
-(づ￣3￣)づ╭❤～
+---
+layout: post
+title: About
+permalink: /about/
+author_profile: true
+---
+
+
+# (づ￣3￣)づ╭❤～
