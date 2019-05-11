@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Anran"
-  avatar           : "/docs/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A regular college student."
   location         : "Somewhere"
   email            :
