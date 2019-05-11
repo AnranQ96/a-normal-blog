@@ -8,4 +8,4 @@ title:  "Checklist for playing with this blog"
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 - Jekyll(?)  
   
-Wish I can survived from this. ![](/assets/images/emoji/take-notes.jpg)
+Wish I can survived from this. ![](../assets/images/emoji/take-notes.jpg)
