@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "zh-CN"
 title                    : "一个兴趣使然的blog"
 title_separator          : "|"
-name                     : "LeafWolf"
+name                     : "AQ"
 description              : " "
 url                      : "https://anranq96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/a-normal-blog" # the subpath of your site, e.g. "/blog"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "LeafWolf"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "一个只会无能狂怒的阿宅。"
+  name             : "Anran"
+  avatar           : "/docs/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A regular college student."
   location         : "Somewhere"
   email            :
   links:
