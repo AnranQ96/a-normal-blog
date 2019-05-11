@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "LeafWolf"
-  avatar           : "/assets/images/bio-photo-f.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "一个只会无能狂怒的阿宅。"
   location         : "Somewhere"
   email            :
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LeafWolf2333"
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LeafWolf2333"
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
