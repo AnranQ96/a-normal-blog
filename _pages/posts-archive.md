@@ -5,5 +5,5 @@ layout: single
 author_profile: true
 ---
 
-<a href = "/posts/year-archive/">Year</a><br>
-<a href = "/posts/category-archive/">Category</a><br>
+<a href = "/a-normal-blog/posts/year-archive/">Year</a><br>
+<a href = "/a-normal-blog/posts/category-archive/">Category</a><br>
