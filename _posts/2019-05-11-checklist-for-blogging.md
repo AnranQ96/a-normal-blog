@@ -3,9 +3,9 @@ layout: posts
 title:  "Checklist for playing with this blog"
 ---
 
-- [Markdown](https://www.markdownguide.org/basic-syntax/)
+- <a href = "https://www.markdownguide.org/basic-syntax/" target = "_blank">Markdown</a>
 - Ruby
-- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+- <a href = "https://mmistakes.github.io/minimal-mistakes/docs/configuration/" target = "_blank">Minimal Mistakes</a>
 - Jekyll(?)  
   
 Wish I can survived from this. <img src="../assets/images/emoji/take-notes.jpg" width="100">

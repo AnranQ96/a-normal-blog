@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 permalink: /posts/
-layout: single
+layout: archive
 author_profile: true
 ---
 
