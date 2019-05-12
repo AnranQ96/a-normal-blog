@@ -5,5 +5,5 @@ layout: posts
 author_profile: true
 ---
 
-Year<br>
-Tag<br>
+<a href = "/year-archive/">Year</a><br>
+<a href = "/category-archive/">Category</a><br>
