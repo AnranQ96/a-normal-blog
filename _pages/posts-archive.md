@@ -5,5 +5,6 @@ layout: archive
 author_profile: true
 ---
 
-<a href = "/a-normal-blog/posts/year-archive/">Year</a><br>
-<a href = "/a-normal-blog/posts/category-archive/">Category</a><br>
+<a href = "/a-normal-blog/year-archive/">Year</a><br>
+<a href = "/a-normal-blog/categories/">Category</a><br>
+<a href = "/a-normal-blog/tags/">Tag</a><br>

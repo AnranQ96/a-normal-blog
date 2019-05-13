@@ -1,6 +1,9 @@
 ---
 layout: posts
 title:  "Checklist for playing with this blog"
+tags: 
+  - English
+  - tech-related
 ---
 
 - <a href = "https://www.markdownguide.org/basic-syntax/" target = "_blank">Markdown</a>
