@@ -1,6 +1,8 @@
 ---
 layout: posts
 title:  "First Blog"
+categories: 
+  - Others
 ---
 
 # Welcome

@@ -1,6 +1,8 @@
 ---
 layout: posts
 title:  "Checklist for playing with this blog"
+categories: 
+  - Others
 tags: 
   - English
   - tech-related
