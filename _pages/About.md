@@ -3,6 +3,9 @@ layout: single
 title: About
 permalink: /about/
 author_profile: true
+header:
+  image: /assets/images/header-image2.jpg
+  image_description: "A header image"
 ---
 
 
